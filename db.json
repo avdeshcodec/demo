@@ -1,4 +1,5 @@
-[
+{
+  "News": [
   {
     "NewsId": 1,
     "NewsURL": "https://timesofindia.indiatimes.com/",
@@ -40,3 +41,4 @@
     "NewsDescription": "Microsoft Corp.?s cloud computing business fuelled quarterly sales and profit that topped analysts? estimates, boosted by several new deals with large corporate clients.\r\n\r\nRevenue rose 14 % from a ye"
   }
 ]
+}
